@@ -75,5 +75,5 @@ void loop() {
     http.end();
   }
 
-  delay(20000); // Wait 20 seconds before next update (ThingSpeak limit)
+  delay(15000); // Wait 20 seconds before next update (ThingSpeak limit)
 }
